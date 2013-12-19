@@ -1,4 +1,4 @@
-Rockstar Of Design By <a href:"http://naveensingh.org"> Naveen Singh </a>  <br>
+Rockstar Of Design By <a href:"http://naveensingh.org">NaveenSingh</a>  <br>
 Minimalistic in design and fully responsive on all devices.<br>
 Background Image used below the header section in all pages is taken from a free source called <a href="http://unsplash.com/"> Unsplash </a>  <br>
 Use of Font Awesome a free glyphicons resource can be found <a href="http://fortawesome.github.io/Font-Awesome/icons/"> here </a> <br>
