@@ -5,5 +5,5 @@ Use of Font Awesome a free glyphicons resource can be found <a href="http://fort
 Use of <a href="https://github.com/viljamis/TinyNav.js">TinyNav.js</a> a free rpository.<br>
 All the dummy content is sourced from the <a href="http://bigrock.in">Bigrock's</a> website. <br>
 The design does not contain any copyrighted material. <br>
-
+<h2>ScreenShot</h2>
 ![alt tag](https://github.com/naveen052/rodbynaveen/blob/master/screenshot.png?raw=true)
