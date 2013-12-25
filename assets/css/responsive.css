@@ -1,3 +1,4 @@
+
 /* ==========================================================================
    9. Media Queries - Smaller than 900px
    ========================================================================== */
@@ -201,7 +202,7 @@
         padding: 25px 8px;
     }
     .jumbotron-website-builder h1 {
-        font-size: 31px;
+        font-size: 30px;
     }
     .grid_3 {
         width: 100%;
@@ -210,6 +211,35 @@
         padding: 0px;
         display: block;
     }
+    .single-product-4 {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+    .single-product {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 0px;
+    }
+    footer .inner .grid_4 {
+        width: 100%;
+        float: left;
+
+    }
+    .grid_3 {
+        width: 100%;
+        float: left;
+        margin: 0px;
+        display: block;
+    }
+
+
+}
+
+@media all and (max-width:700px) and (min-width: 10px) {   
     table, thead, tbody, th, td, tr { 
         display: block; 
     }
@@ -246,32 +276,6 @@
         font-weight: bold;
     }
  
-    td:before { content: attr(data-title); }
-
-    .single-product-4 {
-        display: block;
-        float: none;
-        width: 100%;
-        margin: 0px;
-        padding: 0px;
+    td:before { content: attr(data-title); 
     }
-    .single-product {
-        display: block;
-        float: none;
-        width: 100%;
-        margin: 0px;
-    }
-    footer .inner .grid_4 {
-        width: 100%;
-        float: left;
-
-    }
-    .grid_3 {
-        width: 100%;
-        float: left;
-        margin: 0px;
-        display: block;
-    }
-
-
 }
